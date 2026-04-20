@@ -7,7 +7,7 @@ package DataArray;
  *
  * @author lenovo
  */
-public class Modul1202557201010{
+public class Modul1202557201010DataArray{
     public static void main(String[] args) {
         String data[][] = {{"NAMA",  "ALAMAT", "\tTELEPON"},
             {"ABDUL", "Kediri",  "\t085646668991"},
